@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub
 
 I am a student at the University of Edinburgh - Zhejiang University Institute. This is my public github repository. 
 
